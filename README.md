@@ -17,9 +17,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 ###
-
-<img data-importer="image" align="left" height="150" src="https://storage.googleapis.com/series-superrare-prod/0x00f713cdef9c8ab0eaa2e68225b7298fc064048a/the_big_city.gif"  />
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/dwarft/dwarft/snake-output/snake.svg" alt="Snake animation" />
