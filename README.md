@@ -12,7 +12,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dwarft&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+![snake gif](https://github.com/dwarft/dwarft/blob/output/github-snake-dark.svg)
 [![](https://komarev.com/ghpvc/?username=dwarft&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
