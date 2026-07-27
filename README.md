@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=Hi%20I'm%20Iqbal&fontColor=ff002f&fontSize=72&animation=fadeIn&desc=An%20%20Special%20Web%20Dev&descAlign=72&reversal=true&textBg=false# revinhq
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=Hi%20I'm%20Iqbal&fontColor=ff002f&fontSize=72&animation=fadeIn&desc=An%20%20Special%20Web%20Dev&descAlign=72&reversal=true&textBg=false#" />
